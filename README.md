@@ -39,4 +39,3 @@ pip install cmu-graphics pillow
 - `src/`: game source code (entry point: `RUNFILE.py`)
 - `TP3 Project Proposal.pdf`: project proposal
 - `README.txt`: original handin README
-- `video-demo.txt`: video demo link
